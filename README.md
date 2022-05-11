@@ -1,10 +1,9 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Mehmet.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying JAVA EE Development at INTEC.
+- 🎓 &nbsp; Studying JAVA EE Development at INTEC BRUSSEL.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 👀 &nbsp; I'm interested in Unity Game Development as well. 
 - 🌱 &nbsp; Learning more about Front-End Development  
@@ -14,7 +13,8 @@
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Unity](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">)
+  ![Unity](https://cdn.icon-icons.com/icons2/2530/PNG/512/unity_button_icon_151945.png)
+  ![C#](https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_Csharp_423.png)
 
 
 - 🌐 &nbsp;
