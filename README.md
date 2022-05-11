@@ -14,7 +14,7 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Unity](https://cdn.icon-icons.com/icons2/2530/PNG/512/unity_button_icon_151945.png)
-  ![C#](https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_Csharp_423.png)
+  ![C#](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c%23.svg)
 
 
 - 🌐 &nbsp;
