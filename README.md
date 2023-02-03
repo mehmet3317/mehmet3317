@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying JAVA EE Development at INTEC BRUSSEL.
+- 🎓 &nbsp; Completed JAVA EE Development course at INTEC BRUSSEL.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 👀 &nbsp; I'm interested in Unity Game Development as well. 
 - 🌱 &nbsp; Learning more about Front-End Development  
@@ -16,7 +16,6 @@
   
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" title="C#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a>&nbsp;&nbsp;)
  
 
 - 🛢 &nbsp;
@@ -40,7 +39,3 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-
-⭐️ From [AVS1508](https://github.com/AVS1508)
